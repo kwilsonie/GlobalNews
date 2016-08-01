@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/content/Article.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/AuthorApplication.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/author/mvc/AuthorController.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/content/Category.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/author/mvc/menus/LoginExitMenuOption.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/author/mvc/AuthorModel.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/users/CMSUser.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/test/com/globalnews/users/AuthorSubmitsArticleTest.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/content/ArticleStatus.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/db/Database.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/users/Author.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/author/mvc/menus/AuthorMainMenuOption.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/users/User.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/users/Role.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/author/mvc/AuthorView.java</file>
+            <file>file:/Users/kenwilson/NetBeansProjects/GlobalNews/src/com/globalnews/security/SingleSignOn.java</file>
+        </group>
+    </open-files>
+</project-private>

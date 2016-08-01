@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="GlobalNews" duration-ms="941" started-at="2016-08-01T17:34:11Z" finished-at="2016-08-01T17:34:12Z">
+    <groups>
+    </groups>
+    <test name="com.globalnews.users.AuthorDisplayAllArticlesTest" duration-ms="867" started-at="2016-08-01T17:34:11Z" finished-at="2016-08-01T17:34:12Z">
+      <class name="com.globalnews.users.AuthorDisplayAllArticlesTest">
+        <test-method status="PASS" signature="testAuthorSumitArticle()[pri:0, instance:testAuthorSumitArticle(com.globalnews.users.AuthorDisplayAllArticlesTest)]" name="testAuthorSumitArticle" duration-ms="676" started-at="2016-08-01T18:34:11Z" finished-at="2016-08-01T18:34:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAuthorSumitArticle -->
+      </class> <!-- com.globalnews.users.AuthorDisplayAllArticlesTest -->
+    </test> <!-- com.globalnews.users.AuthorDisplayAllArticlesTest -->
+    <test name="com.globalnews.users.AuthorSubmitsArticleTest" duration-ms="40" started-at="2016-08-01T17:34:12Z" finished-at="2016-08-01T17:34:12Z">
+      <class name="com.globalnews.users.AuthorSubmitsArticleTest">
+        <test-method status="PASS" signature="testAuthorSumitArticle()[pri:0, instance:testAuthorSumitArticle(com.globalnews.users.AuthorSubmitsArticleTest)]" name="testAuthorSumitArticle" duration-ms="38" started-at="2016-08-01T18:34:12Z" finished-at="2016-08-01T18:34:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAuthorSumitArticle -->
+      </class> <!-- com.globalnews.users.AuthorSubmitsArticleTest -->
+    </test> <!-- com.globalnews.users.AuthorSubmitsArticleTest -->
+  </suite> <!-- GlobalNews -->
+</testng-results>
