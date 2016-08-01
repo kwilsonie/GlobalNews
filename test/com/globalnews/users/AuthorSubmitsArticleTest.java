@@ -18,6 +18,7 @@ import static org.testng.Assert.*;
 
 /**
  * AuthorSubmitsArticleTest JUNIT
+ * 
  * @author kenwilson
  */
 public class AuthorSubmitsArticleTest {
@@ -134,7 +135,5 @@ public class AuthorSubmitsArticleTest {
         System.out.println("");        
         System.out.println("");        
         System.out.println("");        
-
     }
-    
 }

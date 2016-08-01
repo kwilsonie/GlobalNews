@@ -11,7 +11,7 @@ package com.globalnews.users;
  * @see User
  * @author kenwilson
  */
-public abstract class CMSUser implements User {
+public abstract class CMSUser implements User, Cloneable {
     private String name;
     private String password;
     private String mobile;
